@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 I am a passionate Computer Science student with strong skills in **Java, object-oriented programming, and scalable backend systems**.  
-I enjoy building impactful software solutions that address **real-world challenges** and am eager to contribute to growth-driven engineering teams.
+I enjoy building impactful software solutions that address **real-world challenges** and I am eager to contribute to growth-driven engineering teams.
 
 - **Degree:** B.Tech in Computer Science & Engineering, JECRC University (CGPA: 8.86)  
   
@@ -65,5 +65,5 @@ I enjoy building impactful software solutions that address **real-world challeng
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omveersingh&show_icons=true&theme=radical" alt="Omveer's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omveersingh&show_icons=true&theme=radical&cache_seconds=0" alt="Omveer's GitHub Stats"/>
 </p>
