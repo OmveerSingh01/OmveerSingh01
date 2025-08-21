@@ -45,7 +45,7 @@ I enjoy building impactful software solutions that address **real-world challeng
 
 ## 🏆 Achievements & Certifications
 
-- **Python for Data Science** – [IBM SkillsBuild  ] (https://courses.skillsbuild.skillsnetwork.site/certificates/dfd5eab1b7ae488d91a5c1d9088407f3)
+- **Python for Data Science** – [IBM SkillsBuild  ] 
 - **Java & MySQL certifications** – HackerRank  
 - Earned **50-Day Coding Streak Badge** on LeetCode  
 - **Google Cloud Career Launchpad – Cloud Engineer Track**  
