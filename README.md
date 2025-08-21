@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Omveer Singh
 
-<!--
-**OmveerSingh01/OmveerSingh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Aspiring Software Developer | B.Tech CSE | Passionate about Java & Android Development
 
-Here are some ideas to get you started:
+📍 Jaipur, Rajasthan | 📧 [Mail](osrathore98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omveersingh09) | [GitHub](https://github.com/omveersingh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Computer Science student with strong skills in **Java, object-oriented programming, and scalable backend systems**.  
+I enjoy building impactful software solutions that address **real-world challenges** and am eager to contribute to growth-driven engineering teams.
+
+- **Degree:** B.Tech in Computer Science & Engineering, JECRC University (CGPA: 8.86)  
+  
+
+---
+
+## 📱 Projects
+
+### Women Security App
+**Technologies:** Java, XML, Firebase, Android Studio  
+
+
+- Developed an **Android mobile application** enabling real-time location tracking among users in private groups via unique PIN codes.  
+- Integrated **emergency features**: one-click SOS alerts, calls, and messages to pre-defined contacts.  
+- Utilized **Firebase** for real-time database, authentication, and secure data synchronization.  
+
+<p align="center">
+  <img src="assets/WSlogo.png" alt="Women Security App Logo" width="200"/>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Python for Data Science** – [IBM SkillsBuild  ] (https://courses.skillsbuild.skillsnetwork.site/certificates/dfd5eab1b7ae488d91a5c1d9088407f3)
+- **Java & MySQL certifications** – HackerRank  
+- Earned **50-Day Coding Streak Badge** on LeetCode  
+- **Google Cloud Career Launchpad – Cloud Engineer Track**  
+- 4-star in **Java** on HackerRank  
+- Solved **100+ DSA problems** on LeetCode & HackerRank  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [Gmail](osrathore98@gmail.com ) 
+- 🌐 LinkedIn: [Omveer Singh](https://www.linkedin.com/in/omveersingh09)  
+- 💻 GitHub: [github.com/omveersingh](https://github.com/omveersingh)  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omveersingh&show_icons=true&theme=radical" alt="Omveer's GitHub Stats"/>
+</p>
