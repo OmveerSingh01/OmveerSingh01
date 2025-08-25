@@ -43,16 +43,6 @@ I enjoy building impactful software solutions that address **real-world challeng
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- **Python for Data Science** – [IBM SkillsBuild  ] 
-- **Java & MySQL certifications** – HackerRank  
-- Earned **50-Day Coding Streak Badge** on LeetCode  
-- **Google Cloud Career Launchpad – Cloud Engineer Track**  
-- 4-star in **Java** on HackerRank  
-- Solved **100+ DSA problems** on LeetCode & HackerRank  
-
----
 
 ## 📫 Contact Me
 
