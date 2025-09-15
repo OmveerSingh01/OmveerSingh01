@@ -51,9 +51,3 @@ I enjoy building impactful software solutions that address **real-world challeng
 - 💻 GitHub: [github.com/omveersingh](https://github.com/omveersingh)  
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omveersingh&show_icons=true&theme=radical&cache_seconds=0" alt="Omveer's GitHub Stats"/>
-</p>
